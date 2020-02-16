@@ -22,7 +22,7 @@ ruby server.rb
 
 Then, visit <http://localhost:4567> in your browser. You should see a starter version of the code that should look close to your finished version from Part 1 last week. Make sure to review the code provided before proceeding. _Note: The top level component is we are given is FAQContainer rather than `App.js`, which you may have seen in your original Launch FAQ assignment._
 
-## Instructions
+## Instructions ##
 
 This is a multi-part, multi-day challenge that relies on other lessons released throughout the week -- you will not be able to complete all parts of this challenge immediately.
 
