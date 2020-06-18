@@ -15,7 +15,7 @@ yarn run start
 
 In a separate tab, launch your sinatra server:
 
-```no-highlight
+```no-highlight. 
 bundle
 ruby server.rb
 ```
