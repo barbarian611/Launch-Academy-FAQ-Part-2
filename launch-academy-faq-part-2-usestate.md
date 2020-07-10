@@ -1,4 +1,4 @@
-## Introduction. 
+## Introduction.  
 
 Continuing on your work with the Launch Academy FAQ from last week, it's time to make some upgrades. Now you'll refactor the site to use an API endpoint with Fetch and add testing!
 
