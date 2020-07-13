@@ -5,7 +5,7 @@ Continuing on your work with the Launch Academy FAQ from last week, it's time to
 ## Setup
 
 From your challenges directory, run the following:
-
+ 
 ```no-highlight
 et get launch-academy-faq-part-2-usestate
 cd launch-academy-faq-part-2-usestate
