@@ -12,7 +12,7 @@ cd launch-academy-faq-part-2-usestate
 yarn install
 yarn run start
 ```
-
+ 
 In a separate tab, launch your sinatra server:
 
 ```no-highlight. 
